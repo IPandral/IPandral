@@ -2,7 +2,6 @@
 - 👀 I’m interested in server development
 - 🌱 I’m currently learning Java, HTML and SQL
 - 📫 You can contact me at my email: ipandral@unnamednetwork.xyz
--     
 
 <!---
 IPandral/IPandral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
