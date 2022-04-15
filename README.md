@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @IPandral
+- 👋 Hi, I’m IPandral
 - 👀 I’m interested in server development
+- 🌐 https://www.unnamednetwork.xyz/
 - 🌱 I’m currently learning Java, HTML and SQL
 - 📫 You can contact me at my email: ipandral@unnamednetwork.xyz
 
