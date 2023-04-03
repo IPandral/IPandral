@@ -26,7 +26,7 @@ func GetBio() Bio {
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/matthew-revill-564294264/">
+  <a href="https://www.linkedin.com/in/matthew-revill-564294264/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Matthews LinkedIn Profile" height="30" width="30">
   </a>
 
