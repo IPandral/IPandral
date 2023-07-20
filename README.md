@@ -14,7 +14,7 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of cyberPunk-gamer-coder-programmer-dogLover hybrid",
-		"- 🌱 I’m currently learning":        "JavaScript and C++",
+		"- 🌱 I’m currently learning":        "JavaScript and C#",
 		"- 📫 How to reach me:":              "Discord: IPandral",
 	}
 }
