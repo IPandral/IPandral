@@ -17,5 +17,5 @@ Currently Working On 🛠️
     University Projects: Applying AI algorithms in real-world scenarios
     Skill Development: Mastering C# for future tech initiatives
 ```
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IPandral)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IPandral)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IPandral)
