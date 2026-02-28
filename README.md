@@ -1,19 +1,12 @@
-## Hello, World! I'm IPandral, the Brain Behind UnnamedNetwork and an AI Enthusiast 🤖🎮
-
+## Hello, World! I'm IPandral,
 ```python
 print("Welcome to my GitHub profile!")
 
 A bit about me...
 
-    🎓 Studying Artificial Intelligence at university
-    🎮 Owner and Lead developer at UnnamedNetwork, an up and coming game server host
-    💻 My go-to languages are Python, HTML, CSS and JavaScript
-    📘 Currently diving deep into C, react and nodejs
-    🤖 Passionate about AI, Server Management, and Tech Entrepreneurship
+    🎓 Studying Software Engineering at university
+    💻 My go-to languages are Python, HTML, CSS , CPP, C, Rust and JavaScript
+    📘 Currently diving deep into Rust and CPP
+    🤖 Passionate about AI, Server Management, and Software Design
 
-Currently Working On 🛠️
-
-    UnnamedNetwork: Improving server efficiency and customer support
-    University Projects: Applying AI algorithms in real-world scenarios
-    Skill Development: Mastering C, react and nodejs for future tech initiatives
 ```
